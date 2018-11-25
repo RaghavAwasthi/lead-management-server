@@ -62,7 +62,13 @@ $ git push origin YOUR_BRANCH_NAME
 Make sure you push only to your branch.
 
 **5.** **Create a Pull Request** by clicking the _New Pull Request_ button on your repository page.
-
+  
+  
+## Wireframes
+![](https://raw.githubusercontent.com/JBossOutreach/lead-management-server/Images/Image1.jpg)
+![](https://raw.githubusercontent.com/JBossOutreach/lead-management-server/Images/Image2.jpg)
+![](https://raw.githubusercontent.com/JBossOutreach/lead-management-server/Images/Image3.jpg)
+![](https://raw.githubusercontent.com/JBossOutreach/lead-management-server/Images/Image4.jpg)
 ## Help
 If you need any help anywhere in the process, you can always ask a question on our [Gitter Chat](https://gitter.im/jboss-outreach/gci).
 
